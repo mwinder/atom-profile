@@ -4,4 +4,6 @@
   welcome:
     showOnStartup: false
   editor:
-    showInvisibles: true
+    fontSize: 16
+    showIndentGuide: true
+    preferredLineLength: 120
